@@ -1,0 +1,21 @@
+
+    [
+        {
+            "id": 1,
+            "address": "Pakistan Zindabad the best city of the world.",
+            "country": "pakistan",
+            "price": 2222
+        },
+        {
+            "id": 2,
+            "address": "Unknown country of the world...",
+            "country": "uknown",
+            "price": 222
+        },
+        {
+            "id": 3,
+            "address": " Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe soluta rerum sequi molestias? Architecto expedita enim laboriosam tempore. Veniam, eligendi dolore nam necessitatibus perspiciatis facere iure sint quibusdam exercitationem quidem!",
+            "country": "India",
+            "price": 2222
+        }
+    ]

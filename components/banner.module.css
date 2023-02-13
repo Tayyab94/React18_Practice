@@ -1,0 +1,47 @@
+
+.logo{
+    /* margin-top: 2px; */
+    height: 90px;
+    cursor: pointer;
+  }
+  
+  .themeFontColor{
+    color: coral;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .navmenu ul{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+  }
+
+  .navmenu ul li{
+      list-style: none;
+      padding: 9px;
+      border-radius: 10px;
+      transition:color 2ms linear;
+      transition:background 1 linear;
+      
+  }
+
+  .navmenu ul li:hover{
+    background-color: rgb(182, 174, 61);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+  }
+  /* header{
+  
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  } */
+  /* 
+  header > div:nth-child(2)
+  {
+    margin-right: 40px;
+  } */
