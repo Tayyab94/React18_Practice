@@ -1,4 +1,5 @@
 
+import Link from "next/link"
 import styles  from "./banner.module.css"
 
 
@@ -20,7 +21,7 @@ const Banner = (props) => {
       <div className={`col-4  ${styles.navmenu}`}>
         <ul>  
           <li>Home</li>
-          <li>About</li>
+          <li><Link href={"/form"}> Create From</Link></li>
           <li>Contact</li>
         </ul>
       </div>

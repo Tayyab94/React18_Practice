@@ -12,7 +12,7 @@ const useGetRequest= (url)=>{
 
             return result;
         } catch (error) {
-            setLoadingState(loadingStatus.hasError);
+            setLoadingState(loadingStatus.hasError)  ;
         }
     },[url])
 
